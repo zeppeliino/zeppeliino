@@ -23,19 +23,6 @@
 <br/>
 
 
-## Top Respositorys
-[![Shop Bot - NodeJS Puppeteer](https://github-readme-stats.vercel.app/api/pin/?username=zeppeliino&repo=Shop-Bot-NodeJS-Puppeteer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zeppeliino/Shop-Bot-NodeJS-Puppeteer)
-<!--
-[![Minecraft Skript](https://github-readme-stats.vercel.app/api/pin/?username=workiing&repo=SkriptBook&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/workiing/SkriptBook)
-[![PROJEKT](https://github-readme-stats.vercel.app/api/pin/?username=workiing&repo=REPONAME&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](REPOLINK)
-[![PROJEKT](https://github-readme-stats.vercel.app/api/pin/?username=workiing&repo=REPONAME&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](REPOLINK)
-[![PROJEKT](https://github-readme-stats.vercel.app/api/pin/?username=workiing&repo=REPONAME&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](REPOLINK)
--->
-
-<br/>
-<hr/>
-<br/>
-
 <p align="center">
   <a href="https://github.com/zeppeliino">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeppeliino&theme=radical" alt="zeppeliino's GitHub Contribution"/>
